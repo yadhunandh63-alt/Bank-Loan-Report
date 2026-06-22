@@ -25,6 +25,7 @@ In order to monitor and assess our bank's lending activities and performance, we
 
 ## Dashboard 1
 <img width="1207" height="626" alt="Screenshot 2026-06-22 134122" src="https://github.com/user-attachments/assets/f92af977-f6f0-4e7d-8d95-6217553e97ec" />
+
 ## Dashboard 2 <img width="1202" height="624" alt="Screenshot 2026-06-22 134138" src="https://github.com/user-attachments/assets/f8ef55eb-03c2-43cc-b2ce-e5ed6ab15f81" />
 
 
